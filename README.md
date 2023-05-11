@@ -3,22 +3,22 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'herihermawan';
+import WebDeveloper from 'herihermawan';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends WebDeveloper {
   name      = 'Heri Hermawan';
-  title     = 'Software Engineer';
+  title     = 'Fullstack Web Developer';
   education = 'Bachelor of Informatics Engineering';
   location  = 'Bandung, West Java, Indonesia';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends WebDeveloper {
   languages  = ['JavaScript', 'PHP', 'Go'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['Laravel', 'CodeIgniter', 'React JS', 'Vue JS'];
 }
 
-class Contacts extends SoftwareDeveloper {
+class Contacts extends WebDeveloper {
   email      = 'herhermawan007@gmail.com';
   linkedin   = 'https://www.linkedin.com/in/heriher/';
   upwork     = 'https://www.upwork.com/freelancers/~01338b5ad2bf361beb';
