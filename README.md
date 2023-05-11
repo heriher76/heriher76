@@ -1,16 +1,28 @@
-### Hi there 👋
+<p align="center">
+![cover](https://github.com/heriher76/heriher76/assets/45260734/ef87d63d-2492-42d4-a719-e52f1accc175)
+</p>
 
-<!--
-**heriher76/heriher76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import SoftwareDeveloper from 'herihermawan';
 
-Here are some ideas to get you started:
+class Bio extends SoftwareDeveloper {
+  name      = 'Heri Hermawan';
+  title     = 'Software Engineer';
+  education = 'Bachelor of Informatics Engineering';
+  location  = 'Bandung, West Java, Indonesia';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP', 'Go'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['Laravel', 'CodeIgniter', 'React JS', 'Vue JS'];
+}
+
+class Contacts extends SoftwareDeveloper {
+  email      = 'herhermawan007@gmail.com';
+  linkedin   = 'https://www.linkedin.com/in/heriher/';
+  upwork     = 'https://www.upwork.com/freelancers/~01338b5ad2bf361beb';
+}
+```
+
+⭐️ From [heriher76](https://github.com/heriher76)
