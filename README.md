@@ -1,5 +1,5 @@
 <p align="center">
-![cover](https://github.com/heriher76/heriher76/assets/45260734/ef87d63d-2492-42d4-a719-e52f1accc175)
+  <img src="https://github.com/heriher76/heriher76/assets/45260734/ef87d63d-2492-42d4-a719-e52f1accc175" />
 </p>
 
 ```js
